@@ -32,8 +32,7 @@ Thumbs.db
 dist/
 build/
 
-# Test files
-test-*.js
+# Archivos de diagnóstico temporales
 DIAGNOSTICO*.md
 verificar-*.sh
 VERIFICAR*.md
